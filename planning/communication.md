@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Communication
 
 ## Group Rules
@@ -20,7 +20,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 - **Issues**:
 - **Pull Requests**:
 - **GitHub Discussions**
-- **Slack/Discord**: Discord
+- **Slack/Discord/Zoom/Google Meet**: Discord, Zoom, Google Meet
 - **Video Calls**: Yes
 
 ---
@@ -39,9 +39,9 @@ how often will we get in touch on each channel, and what we will discuss there:
 ### How many hours everyone has per day
 
 - Nazgul: _3h_;
-- Alexander: _2h_;
+- Alexander: _3h_;
 - Josee: _3h_;
-- Madhu: _3h_; 
+- Madhu: _3h_;
 
 ## Asking for Help
 
@@ -52,12 +52,11 @@ based on how long you've been stuck on the same problem:
 1. _0 -> 30 min_: Try on your own
 2. _30 -> 60 min_: Ask your group for help
 3. _60+ min_: Tag your coaches in Slack or GitHub
-=======
-## communication
+
 
 - An issue to discuss your group's schedule and communications plan, this can be
   linked to PRs that contribute to the.
 - Everyone is available after 6:00PM
 
 Discord ,Zoom, Github and Google meet
->>>>>>> e649839ad67b74d8237d6ebae32e4d7d14068a6c
+
