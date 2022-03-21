@@ -1,4 +1,3 @@
-
 # Communication
 
 ## Group Rules
@@ -29,12 +28,12 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day      |   Monday   |  Tuesday   | Wednesday  |  Thursday  |   Friday   |  Saturday   |   Sunday    |
-| -------- | :--------: | :--------: | :--------: | :--------: | :--------: | :---------: | :---------: |
-| _Nazgul_  | 6pm - 9pm  | 6pm - 9pm  | 6pm - 9pm  | 6pm - 9pm  | 6pm - 9pm  |  6pm - 9pm  |  6pm - 9pm  |
-| _Alexander_  | 6pm - 9pm| 6pm - 9pm| 6pm - 9pm | 6pm - 9pm | 6pm - 9pm | 6pm - 9pm | 6pm - 9pm |
-| _Josee_    | 6pm - 9pm| 6pm - 9pm | 6pm - 9pm | 6pm - 9pm | 6pm - 9pm| 6pm - 9pm | 6pm - 9pm|
-| _Madhu_ | 6pm - 9pm| 6pm - 9pm| 6pm - 9pm | 6pm - 9pm | 6pm - 9pm | 6pm - 9pm  | 6pm - 9pm |
+| Day         |  Monday   |  Tuesday  | Wednesday | Thursday  |  Friday   | Saturday  |  Sunday   |
+| ----------- | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: |
+| _Nazgul_    | 6pm - 9pm | 6pm - 9pm | 6pm - 9pm | 6pm - 9pm | 6pm - 9pm | 6pm - 9pm | 6pm - 9pm |
+| _Alexander_ | 6pm - 9pm | 6pm - 9pm | 6pm - 9pm | 6pm - 9pm | 6pm - 9pm | 6pm - 9pm | 6pm - 9pm |
+| _Josee_     | 6pm - 9pm | 6pm - 9pm | 6pm - 9pm | 6pm - 9pm | 6pm - 9pm | 6pm - 9pm | 6pm - 9pm |
+| _Madhu_     | 6pm - 9pm | 6pm - 9pm | 6pm - 9pm | 6pm - 9pm | 6pm - 9pm | 6pm - 9pm | 6pm - 9pm |
 
 ### How many hours everyone has per day
 
@@ -53,10 +52,8 @@ based on how long you've been stuck on the same problem:
 2. _30 -> 60 min_: Ask your group for help
 3. _60+ min_: Tag your coaches in Slack or GitHub
 
-
 - An issue to discuss your group's schedule and communications plan, this can be
   linked to PRs that contribute to the.
 - Everyone is available after 6:00PM
 
 Discord ,Zoom, Github and Google meet
-
