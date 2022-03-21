@@ -1,6 +1,21 @@
-# (project name)
+# All about trees
 
 <!-- describe your project -->
+
+This project is to rebuild the All About Trees site in a new repository as a
+group using the Planning and Collaborating workflows. Our group will use folders
+as a starting point to plan our own rebuild of the site.
+
+We will not be planning a new website. Our main focus should be the steps in
+Planning and Collaborating, Git/GitHub workflows, and code review using a
+checklist.
+
+The members of **Group-3** are:
+
+- @alexanderism55
+- @NazgulM
+- @MadhuMNG
+- @Ufitamahoro
 
 ## Getting Started
 
