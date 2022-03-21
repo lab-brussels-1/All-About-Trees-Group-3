@@ -1,5 +1,7 @@
 # Planning
 
+![planning](/assets/planning.png)
+
 ## User personal information
 
 - Our users are people that are interested in trees
