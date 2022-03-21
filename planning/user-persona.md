@@ -2,7 +2,7 @@
 
 <!-- some introduction -->
 
-## The project objective : to educate the public about trees.
+## The project objective : to educate the public about trees
 
 <!-- a persona -->
 
