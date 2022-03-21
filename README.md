@@ -12,10 +12,10 @@ checklist.
 
 The members of **Group-3** are:
 
-- @alexanderism55
-- @NazgulM
-- @MadhuMNG
-- @Ufitamahoro
+- [alexanderism55](https://github.com/alexanderism55)
+- [NazgulM](https://github.com/NazgulM)
+- [MadhuMNG](https://https://github.com/MadhuMNG)
+- [Ufitamahoro](https://github.com/Ufitamahoro)
 
 ## Getting Started
 
