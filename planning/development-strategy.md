@@ -36,7 +36,6 @@ The site needs a clear title that's easy to read at the top of the page.
 - Header
 - `h1` tag with the text
 - ìmg`
--
 
 ### Title: CSS
 
@@ -60,11 +59,10 @@ It should be clear about why trees are important.
 - `section`
 - `p`
 - `br`
-- àside`
-- àrticle`
+- `aside`
+- article`
 - ùl`
 - `li`
--
 
 ### Content: CSS
 
