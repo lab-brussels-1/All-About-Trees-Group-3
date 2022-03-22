@@ -8,7 +8,7 @@
 
 ## The Public
 
-- **Bio**: People that are interested about trees
+- **Bio**: People that are interested about trees.
 - **Needs/Goals**: The importance of trees, how to take care of trees and how to
   contribute to society through trees.
 - **Frustrations**: People are cutting down trees too much and are not planting
