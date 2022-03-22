@@ -17,4 +17,4 @@
 
 ---
 
-![planning](/assets/user.png)
+![user](/assets/user.png)
