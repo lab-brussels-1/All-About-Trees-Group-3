@@ -8,9 +8,10 @@
 
 ## Communication Schedule
 
-| Day | How | The topic of discussion |
-| --- | :-: | ----------------------- |
-|     |     |                         |
+| Day     |  How  | The topic of discussion |
+| ------- | :---: | ----------------------- |
+| Monday  | 18:00 | Planning                |
+| Tuesday | 13:00 | Discuss progress        |
 
 ## Communication Channels
 
