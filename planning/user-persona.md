@@ -1,6 +1,7 @@
 # User Personas
 
-<!-- some introduction -->
+The project objective is to explain how tres are important and how to take carre
+of them.
 
 ## The project objective : to educate the public about trees
 
