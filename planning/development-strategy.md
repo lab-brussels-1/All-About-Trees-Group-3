@@ -59,8 +59,8 @@ It should be clear about why trees are important.
 - `section`
 - `p`
 - `br`
-- àside`
-- àrticle`
+- `aside`
+- article`
 - ùl`
 - `li`
 

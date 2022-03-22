@@ -1,17 +1,18 @@
-## Constrain
+# Constrain
 
 - Time line for the project is one week
 
-### Technology
+## Technology
 
 - github
 - VScode
 - html
 - css
 
-### Different Tools For Communication
+## Different Tools For Communication
 
 - Discord
 - Zoom
 - github
-- google meet
+- Google meet
+
