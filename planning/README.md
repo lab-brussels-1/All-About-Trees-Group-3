@@ -1,6 +1,6 @@
 # Planning
 
-![planning](/assets/planning.png)
+![planning](../assets/planning.png)
 
 ## User personal information
 
