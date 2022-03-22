@@ -37,7 +37,6 @@ The site needs a clear title that's easy to read at the top of the page.
 - `h1` tag with the text
 - `img`
 
-
 ### Title: CSS
 
 - styling to center the title
