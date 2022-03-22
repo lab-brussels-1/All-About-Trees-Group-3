@@ -10,6 +10,8 @@ We will not be planning a new website. Our main focus should be the steps in
 Planning and Collaborating, Git/GitHub workflows, and code review using a
 checklist.
 
+![alt](https://i.pinimg.com/originals/ee/a3/99/eea399707b297348d6ceff4bdb0ab0c4.jpg)
+
 The members of **Group-3** are:
 
 - [alexanderism55](https://github.com/alexanderism55)
