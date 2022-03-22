@@ -17,3 +17,5 @@ of them.
 - **Scenario 1**: People are campaigning about trees and the environment.
 
 ---
+
+![user](/assets/user.png)
