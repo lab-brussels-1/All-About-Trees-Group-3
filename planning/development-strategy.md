@@ -36,8 +36,9 @@ The site needs a clear title that's easy to read at the top of the page.
 - Header
 
 - `h1` tag with the text
-- ìmg`
-  > > > > > > > b16c67a (added discription)
+
+- `img`
+- > > > > > > > 6299c84 (joseeupdates)
 
 ### Title: CSS
 
@@ -45,7 +46,7 @@ The site needs a clear title that's easy to read at the top of the page.
 
 ---
 
-### Content
+## Content
 
 > "As a user I can read some info about the importance of trees"
 
@@ -61,11 +62,14 @@ It should be clear about why trees are important.
 - `section`
 - `p`
 - `br`
-- `aside`
+- `aside` <<<<<<< HEAD
 
 - `article`
 - `ul`
   > > > > > > > 6299c84 (joseeupdates)
+- `article`
+- `ul`
+- > > > > > > > 6299c84 (joseeupdates)
 - `li`
 
 ### Content: CSS

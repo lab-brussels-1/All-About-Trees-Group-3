@@ -10,11 +10,13 @@
 
 ## Communication Schedule
 
-| Day       |  How  | The topic of discussion |
-| --------- | :---: | ----------------------- |
-| Monday    | 18:00 | Planning                |
-| Tuesday   | 13:00 | Discuss progress        |
-| Wednesday | 10:00 | Closing all issues      |
+<<<<<<< HEAD | Day | How | The topic of discussion | | --------- | :---: |
+----------------------- | | Monday | 18:00 | Planning | | Tuesday | 13:00 |
+Discuss progress | | Wednesday | 10:00 | Closing all issues | ======= | Day |
+How | The topic of discussion | | ------- | :---: | ----------------------- | |
+Monday | 18:00 | Planning | | Tuesday | 13:00 | Discuss progress |
+
+> > > > > > > 6299c84 (joseeupdates)
 
 ## Communication Channels
 
