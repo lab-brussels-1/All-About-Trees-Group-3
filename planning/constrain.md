@@ -3,7 +3,7 @@
 **Constraint** is something that controls what you do by keeping you within
 particular limits:
 
-![graphic](/All-About-Trees-Group-3/assets/triple.png)
+![photo](/All-About-Trees-Group-3/assets/triple.png)
 
 ## External
 
