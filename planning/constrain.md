@@ -70,6 +70,21 @@ particular limits:
 > > > > > > > --> 200d736 (adding info to constraint file) <<<<<<< HEAD 6f31b59
 > > > > > > > (after npm run format)
 
+<<<<<<< HEAD
+
 - github
 - google meet
+
   > > > > > > > e02a151 (added discription) b10fae8 ( i added them al)
+
+  <!--
+
+    Constraints that we  decided to help finish our project. They may include:
+    - Share ideas and scope of work
+    - planning all steps for coding review
+    - the number of hours we want to spend working
+    - and discussing over project step by step
+    - now we have Google meeting twice a day for detailed working
+  -->
+
+  > > > > > > > 472eb0f ( i changed some conflicts in constraints)
