@@ -25,6 +25,7 @@ particular limits:
 - Zoom <<<<<<< HEAD
 - Github
 - Google meet
+<<<<<<< HEAD
 
 <!--
   Constraints that we  decided to help finish our project. They may include:
@@ -36,3 +37,5 @@ particular limits:
 -->
 
 > > > > > > > 6f31b59 (after npm run format)
+=======
+>>>>>>> 379d619 (communicationupdate)

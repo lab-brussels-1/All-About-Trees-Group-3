@@ -44,6 +44,10 @@ The site needs a clear title that's easy to read at the top of the page.
 
 > > > > > > > 21e0377 (solve lint md)
 
+=======
+
+> > > > > > > 379d619 (communicationupdate)
+
 ### Title: CSS
 
 - styling to center the title
