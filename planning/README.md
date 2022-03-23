@@ -1,6 +1,6 @@
 # Planning
 
-<<<<<<< HEAD <<<<<<< HEAD
+<<<<<<< HEAD <<<<<<< HEAD <<<<<<< HEAD
 
 ## User personal information
 
@@ -37,4 +37,6 @@
 ## Retrospective
 
 - Regardless of how it ends. We will come out of this more than when when we
-  came in to this. ======= ![planning](/assets/planning.png)
+  came in to this. ======= ![planning](/assets/planning.png) =======
+  ![planning](/assets/planning.png)
+  > > > > > > > d8804b6 (adding photo)
