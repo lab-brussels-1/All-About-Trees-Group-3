@@ -6,6 +6,7 @@
   list-style-type: square;
 }
 
+/* https://developer.mozilla.org/en-US/docs/Web/HTML/Element/aside */
 .aside-info {
   width: 40%;
   padding-left: 0.5rem;
@@ -19,12 +20,50 @@
   font-family: monospace;
 }
 
+.bottom-divider {
+  border-style: none none solid none;
+}
+
+.spaced-items {
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  justify-content: space-around;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
 .centered-items {
   display: flex;
   flex-direction: row;
   justify-content: center;
   padding-top: 2%;
   padding-bottom: 2%;
+}
+
+.top-divider {
+  border-style: solid none none none;
+}
+
+/* https://www.developerdrive.com/8-simple-css-hover-effects/ */
+@keyframes bounce {
+  0%,
+  20%,
+  60%,
+  100% {
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+  }
+
+  40% {
+    -webkit-transform: translateY(-20px);
+    transform: translateY(-20px);
+  }
+
+  80% {
+    -webkit-transform: translateY(-10px);
+    transform: translateY(-10px);
+  }
 }
 
 .bouncy-img {
