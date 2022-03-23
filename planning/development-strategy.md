@@ -40,6 +40,10 @@ The site needs a clear title that's easy to read at the top of the page.
 - `img`
 - > > > > > > > 6299c84 (joseeupdates)
 
+=======
+
+> > > > > > > 21e0377 (solve lint md)
+
 ### Title: CSS
 
 - styling to center the title
