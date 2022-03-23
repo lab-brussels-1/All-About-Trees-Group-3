@@ -14,10 +14,10 @@ particular limits:
 
 ## Technology
 
-- github
+- Github
 - VScode
-- html
-- css
+- HTML
+- CSS
 
 ## Internal: Voluntary
 
