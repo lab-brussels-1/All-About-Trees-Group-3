@@ -34,8 +34,10 @@ The site needs a clear title that's easy to read at the top of the page.
 ### Title: HTML
 
 - Header
-- `h1` tag with the text
-- ìmg`
+- `h1` tag with the text <<<<<<< HEAD
+- # ìmg`
+- `img`
+- > > > > > > > 6299c84 (joseeupdates)
 
 ### Title: CSS
 
@@ -54,14 +56,16 @@ It should be clear about why trees are important.
 ### Content: HTML
 
 - `nav`
-- à`
+- `a`
 - `div`
 - `section`
 - `p`
 - `br`
 - `aside`
-- article`
-- ùl`
+
+- `article`
+- `ul`
+  > > > > > > > 6299c84 (joseeupdates)
 - `li`
 
 ### Content: CSS
@@ -99,7 +103,7 @@ Social-media links of the Author.
 
 ### Footer: HTML
 
-- à`.
+- `a`.
 
 ### Footer: CSS
 
