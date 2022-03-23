@@ -3,8 +3,6 @@
 **Constraint** is something that controls what you do by keeping you within
 particular limits:
 
-![const](/All-About-Trees-Group-3/assets/triple.png)
-
 ## External
 
 - Time line for the project is one week (due to rebuilding of existing project)
@@ -21,10 +19,10 @@ particular limits:
 
 ## Technology
 
-- github
+- Github
 - VScode
-- html
-- css
+- HTML
+- CSS
 
 <!--
   Internal constraints - these are factors within the control of the business that are restricting it achieving its objectives. They may include:
