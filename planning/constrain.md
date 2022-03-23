@@ -1,6 +1,16 @@
-# Constrain
+# Constraint
 
-- Time line for the project is one week
+**Constraint** is something that controls what you do by keeping you within
+particular limits:
+
+![const](/All-About-Trees-Group-3/assets/triple.png)
+
+## External
+
+- Time line for the project is one week (due to rebuilding of existing project)
+- Github
+
+## Internal: Involuntary
 
 ## Technology
 
@@ -9,13 +19,11 @@
 - html
 - css
 
+## Internal: Voluntary
+
 ## Different Tools For Communication
 
 - Discord
 - Zoom
-- github
+- Github
 - Google meet
-<<<<<<< HEAD
-  > > > > > > > eab65ea (added new communication tool)
-=======
->>>>>>> 379d619 (communicationupdate)
