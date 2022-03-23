@@ -18,6 +18,7 @@
 .aside-text {
   font-family: monospace;
 }
+
 .centered-items {
   display: flex;
   flex-direction: row;
