@@ -21,10 +21,10 @@ particular limits:
 
 ## Technology
 
-- github
+- Github
 - VScode
-- html
-- css
+- HTML
+- CSS
 
 <!--
   Internal constraints - these are factors within the control of the business that are restricting it achieving its objectives. They may include:
