@@ -14,4 +14,5 @@
 - Discord
 - Zoom
 - github
-- google meet
+- Google meet
+  > > > > > > > eab65ea (added new communication tool)
