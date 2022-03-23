@@ -4,23 +4,27 @@
 
 <!-- any general rules you'd like to set for your group? -->
 
----
+- Communicate as much as possible on Discord
+- Everyone must be in the group call when we make it
+- Learn to communicate on GitHub
 
 ## Communication Schedule
 
-| Day     |  How  | The topic of discussion |
-| ------- | :---: | ----------------------- |
-| Monday  | 18:00 | Planning                |
-| Tuesday | 13:00 | Discuss progress        |
+| Day       |  How  | The topic of discussion |
+| --------- | :---: | ----------------------- |
+| Monday    | 18:00 | Planning                |
+| Tuesday   | 13:00 | Discuss progress        |
+| Wednesday | 10:00 | Closing all issues      |
 
 ## Communication Channels
 
 how often will we get in touch on each channel, and what we will discuss there:
 
-- **Issues**:
-- **Pull Requests**:
-- **GitHub Discussions**
-- **Slack/Discord/Zoom/Google Meet**: Discord, Zoom, Google Meet
+- **Issues**: Everyday
+- **Pull Requests**: Every now and then one needs help with PR
+- **GitHub Discussions**: We should start using it
+- **Slack/Discord/Zoom/Google Meet**: Discord, Zoom, Google Meet for group
+  meetings
 - **Video Calls**: Yes
 
 ---

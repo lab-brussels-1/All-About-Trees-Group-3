@@ -15,4 +15,7 @@
 - Zoom
 - github
 - Google meet
+<<<<<<< HEAD
   > > > > > > > eab65ea (added new communication tool)
+=======
+>>>>>>> 379d619 (communicationupdate)

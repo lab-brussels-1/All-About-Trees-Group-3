@@ -37,7 +37,7 @@ The site needs a clear title that's easy to read at the top of the page.
 - `h1` tag with the text <<<<<<< HEAD
 - `img`
 
-> > > > > > > 21e0377 (solve lint md)
+> > > > > > > 379d619 (communicationupdate)
 
 ### Title: CSS
 
