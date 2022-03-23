@@ -22,7 +22,7 @@ particular limits:
 ## Different Tools For Communication
 
 - Discord
-- Zoom
+- Zoom <<<<<<< HEAD
 - Github
 - Google meet
 

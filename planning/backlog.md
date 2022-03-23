@@ -14,8 +14,7 @@
     importance of trees.
     - [x] _there is a image of trees on the top of the web page_
   - As a person interested in trees i need to be able to find more about the
-    author in social media.
-    - [x] _there is info about the author_
+    author in social media. <<<<<<< HEAD - [x] _there is info about the author_
 
 ## Should Haves
 

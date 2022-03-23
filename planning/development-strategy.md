@@ -34,10 +34,10 @@ The site needs a clear title that's easy to read at the top of the page.
 ### Title: HTML
 
 - Header
-- `h1` tag with the text <<<<<<< HEAD
-- `img`
 
-> > > > > > > 379d619 (communicationupdate)
+- `h1` tag with the text
+- ìmg`
+  > > > > > > > b16c67a (added discription)
 
 ### Title: CSS
 
