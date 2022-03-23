@@ -3,8 +3,6 @@
 **Constraint** is something that controls what you do by keeping you within
 particular limits:
 
-![photo](/All-About-Trees-Group-3/assets/triple.png)
-
 ## External
 
 - Time line for the project is one week (due to rebuilding of existing project)
