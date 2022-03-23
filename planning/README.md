@@ -1,6 +1,6 @@
 # Planning
 
-<<<<<<< HEAD
+<<<<<<< HEAD <<<<<<< HEAD
 
 ## User personal information
 
