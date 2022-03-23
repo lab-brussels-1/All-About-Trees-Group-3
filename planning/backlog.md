@@ -5,6 +5,7 @@
 > these are necessary for basic usability
 
 - **Home Page**
+
   - As people interested in trees these are what they should be able to find
     - [x] _there is a prominent title at the top of the web page_
   - As a person interested about trees i need to know the title is relatable to
@@ -14,7 +15,11 @@
     importance of trees.
     - [x] _there is a image of trees on the top of the web page_
   - As a person interested in trees i need to be able to find more about the
-    author in social media. <<<<<<< HEAD - [x] _there is info about the author_
+
+        author in social media.
+        - [x] _there is info about the author_
+
+    > > > > > > > 68c3c7e (added discription)
 
 ## Should Haves
 
