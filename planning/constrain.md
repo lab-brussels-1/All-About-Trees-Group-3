@@ -28,9 +28,13 @@ particular limits:
 - Github
 - VScode
 - HTML
-- CSS
+- CSS <<<<<<< HEAD
 
 ## Internal: Voluntary
+
+=======
+
+> > > > > > > ff6f95a (small changes)
 
 <!--
   Internal constraints - these are factors within the control of the business that are restricting it achieving its objectives. They may include:
@@ -58,12 +62,13 @@ particular limits:
   > <<<<<<< HEAD -->
 
 <<<<<<< HEAD
+
 > > > > > > > #6f31b59 (after npm run format)
 > > > > > > >
 > > > > > > > 379d619 (communicationupdate)
 > > > > > > >
 > > > > > > > --> 200d736 (adding info to constraint file)
-=======
+
 <!--
   Constraints that we  decided to help finish our project. They may include:
   - Share ideas and scope of work
@@ -72,4 +77,5 @@ particular limits:
   - and discussing over project step by step
   - now we have Google meeting twice a day for detailed working
 -->
->>>>>>> 6f31b59 (after npm run format)
+
+> > > > > > > 6f31b59 (after npm run format)
