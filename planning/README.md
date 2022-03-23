@@ -1,5 +1,7 @@
 # Planning
 
+<<<<<<< HEAD
+
 ## User personal information
 
 - Our users are people that are interested in trees
@@ -35,4 +37,4 @@
 ## Retrospective
 
 - Regardless of how it ends. We will come out of this more than when when we
-  came in to this.
+  came in to this. ======= ![planning](/assets/planning.png)
