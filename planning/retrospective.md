@@ -1,19 +1,39 @@
 # Retrospective
 
-> Discussing about the project and ask questions in accordance with the results
+## Stop Doing
 
-- Discussing about the project
+- stopped trying to add too much of our own stuff to the code
 
-## Everything went well
+## Continue Doing
 
-> Discussing what was the best and worst thing we did given everything went well
+- Short emergency meetings on top of our regular meetings
 
-- why?
-- What can we add?
+## Start Doing
 
-## Something did not go well
+- Extra styling and possibly even a page
 
-> discuss everything that went not wel and how to improve next time
+## Lessons Learned
 
-- Why?
-- What can we improve?
+---
+
+## Strategy vs. Board
+
+### What parts of your plan went as expected?
+
+- The Design
+- The Development Strategy
+- User Persona
+- constraints
+- Backlog
+
+### What parts of your plan did not work out?
+
+- Communication
+
+### Did you need to add things that weren't in your strategy?
+
+- Yes: we needed to have emergency meetings on top of our regular meetings
+
+### Or remove extra steps?
+
+- we did not need to remove any steps
