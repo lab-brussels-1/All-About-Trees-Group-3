@@ -21,7 +21,7 @@ particular limits:
 
 ## Different Tools For Communication
 
-- Discord
+- Discord <<<<<<< HEAD
 - Zoom <<<<<<< HEAD
 - Github
 - Google meet
