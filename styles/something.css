@@ -44,12 +44,9 @@
 .centered-items {
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
-  align-content: center;
+  justify-content: center;
   padding-top: 2%;
   padding-bottom: 2%;
-  font-family: fantasy;
-  font-size: 20px;
 }
 
 .footer-items {
