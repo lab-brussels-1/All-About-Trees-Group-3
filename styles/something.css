@@ -1,5 +1,9 @@
-.fascinating-words {
+* {
+  box-sizing: border-box;
   font-family: fantasy;
+  background-color: #b9d8721a;
+  color: hsl(300, 49%, 8%);
+  font-size: 20px;
 }
 
 .interesting-things {
@@ -7,6 +11,7 @@
 }
 
 /* https://developer.mozilla.org/en-US/docs/Web/HTML/Element/aside */
+
 .aside-info {
   width: 40%;
   padding-left: 0.5rem;
@@ -14,6 +19,8 @@
   float: right;
   box-shadow: inset 5px 0 5px -5px #29627e;
   font-style: italic;
+  font-family: fantasy;
+  font-size: 20px;
 }
 
 .aside-text {
@@ -31,14 +38,28 @@
   justify-content: space-around;
   padding-top: 2%;
   padding-bottom: 2%;
+  font-family: fantasy;
 }
 
 .centered-items {
   display: flex;
   flex-direction: row;
-  justify-content: center;
+  justify-content: space-around;
+  align-content: center;
   padding-top: 2%;
   padding-bottom: 2%;
+  font-family: fantasy;
+  font-size: 20px;
+}
+
+.footer-items {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-content: center;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  font-family: fantasy;
 }
 
 .top-divider {
@@ -46,6 +67,7 @@
 }
 
 /* https://www.developerdrive.com/8-simple-css-hover-effects/ */
+
 @keyframes bounce {
   0%,
   20%,
@@ -54,12 +76,10 @@
     -webkit-transform: translateY(0);
     transform: translateY(0);
   }
-
   40% {
     -webkit-transform: translateY(-20px);
     transform: translateY(-20px);
   }
-
   80% {
     -webkit-transform: translateY(-10px);
     transform: translateY(-10px);
