@@ -74,17 +74,10 @@ It should be clear about why trees are important.
 
 > "As a user I want to see an image ofa happy tree"
 
-There should be an image of Batman.
-
-- [x] _there is an image of Batman_
-
 ### Images: HTML
 
 - > A div with an image of a happy tree
 
-### Images: CSS
-
-- styling the div to have a good width
 - style the image to be on both sides of the title
 
 ---
