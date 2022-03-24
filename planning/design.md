@@ -1,5 +1,7 @@
 # Design
 
-We will try to recreate it the way it was
+We will try to recreate project the way it was
 
 ## We were instructed to recreate the website the way it is
+
+![design](websketch.svg)
