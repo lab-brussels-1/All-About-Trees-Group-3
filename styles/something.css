@@ -1,109 +1,109 @@
 * {
-    box-sizing: border-box;
-    font-family: fantasy;
-    background-color: #d6fa3525;
-    color: hsl(300, 69%, 5%);
-    font-size: 25px;
+  box-sizing: border-box;
+  font-family: fantasy;
+  background-color: #d6fa3525;
+  color: hsl(300, 69%, 5%);
+  font-size: 25px;
 }
 
 .aside-info {
-    width: 40%;
-    padding-left: 0.5rem;
-    margin-left: 0.5rem;
-    float: right;
-    box-shadow: inset 5px 0 5px -5px #ebe5e99c;
-    background-color: #7af78fb6;
-    font-style: italic;
-    font-family: fantasy;
-    font-size: 30px;
+  width: 40%;
+  padding-left: 0.5rem;
+  margin-left: 0.5rem;
+  float: right;
+  box-shadow: inset 5px 0 5px -5px #ebe5e99c;
+  background-color: #7af78fb6;
+  font-style: italic;
+  font-family: fantasy;
+  font-size: 30px;
 }
 
 .spaced-items {
-    display: flex;
-    flex-direction: row;
-    align-content: center;
-    justify-content: space-around;
-    padding-top: 0%;
-    padding-bottom: 0%;
-    font-family: fantasy;
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  justify-content: space-around;
+  padding-top: 0%;
+  padding-bottom: 0%;
+  font-family: fantasy;
 }
 
 .centered-items {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    padding-top: 0%;
-    padding-bottom: 0%;
-    font-family: fantasy;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-top: 0%;
+  padding-bottom: 0%;
+  font-family: fantasy;
 }
-
 
 /* https://www.developerdrive.com/8-simple-css-hover-effects/ */
 
 @keyframes bounce {
-    0%,
-    20%,
-    60%,
-    100% {
-        -webkit-transform: translateY(0);
-        transform: translateY(0);
-    }
-    40% {
-        -webkit-transform: translateY(-20px);
-        transform: translateY(-20px);
-    }
-    80% {
-        -webkit-transform: translateY(-10px);
-        transform: translateY(-10px);
-    }
+  0%,
+  20%,
+  60%,
+  100% {
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+  }
+
+  40% {
+    -webkit-transform: translateY(-20px);
+    transform: translateY(-20px);
+  }
+
+  80% {
+    -webkit-transform: translateY(-10px);
+    transform: translateY(-10px);
+  }
 }
 
 .Tree-img {
-    justify-content: center;
-    float: left;
-    display: flex;
+  justify-content: center;
+  float: left;
+  display: flex;
 }
 
 .bouncy-img {
-    width: 5%;
-    height: 5%;
+  width: 5%;
+  height: 5%;
 }
 
 .bouncy-img:hover {
-    animation: bounce 1s;
+  animation: bounce 1s;
 }
 
 .footer-clean h3 {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    background-color: #0a881fb6;
-    padding-top: 0%;
-    padding-bottom: 0%;
-    float: centre;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background-color: #0a881fb6;
+  padding-top: 0%;
+  padding-bottom: 0%;
+  float: centre;
 }
 
 .footer-clean ul {
-    display: flex;
-    justify-content: space-evenly;
-    padding-top: 0%;
-    adding-bottom: 0%;
-    float: centre;
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 0%;
+  float: centre;
 }
 
 .footer-clean ul a {
-    display: flex;
-    justify-content: space-evenly;
-    padding-top: 0%;
-    padding-bottom: 0%;
-    float: centre;
-    font-size: 25px;
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 0%;
+  padding-bottom: 0%;
+  float: centre;
+  font-size: 25px;
 }
 
 .footer-clean ul a:hover {
-    display: flex;
-    justify-content: space-evenly;
-    padding-top: 0%;
-    padding-bottom: 0%;
-    float: centre;
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 0%;
+  padding-bottom: 0%;
+  float: centre;
 }
